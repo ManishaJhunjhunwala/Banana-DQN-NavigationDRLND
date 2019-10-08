@@ -46,16 +46,23 @@ l earning/tree/master/dqn). This was modified and updated to work with the Unity
 The results from the DQN were impressive. It easily achieved an average score of 13 pretty easily in 491 episodes.
 
 Episode 100	Average Score: 0.99
+
 Episode 200	Average Score: 5.11
+
 Episode 300	Average Score: 8.40
+
 Episode 400	Average Score: 10.18
+
 Episode 500	Average Score: 11.54
+
 Episode 587	Average Score: 13.06
+
 Environment solved in 587 episodes!	Average Score: 13.06
 
 ![](output_graph.png) 
 Place the file in the directory of GitHub repository files.
 
-Environement is considered solved if average of 100 episodes is more than 13.
+
+Environment is considered solved if average of 100 episodes is more than 13.
 Running a script is not a problem. Just execute it in sequential order.
 
