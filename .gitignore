@@ -1,0 +1,18 @@
+# Ignore these Folders
+
+.ipynb_checkpoints/
+__pycache__/
+Banana_Data/
+Banana_Windows_x86_64/
+
+#Ignore these files
+
+Banana_Windows_x86_64.zip
+checkpoint.pth
+checkpoint0.pth
+debug.log
+Navigation_Pixels.ipynb
+README.txt
+unity-environment.log
+UnityPlayer.dll
+Report.docx
